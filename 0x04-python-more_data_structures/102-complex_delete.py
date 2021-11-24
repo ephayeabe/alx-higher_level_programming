@@ -4,4 +4,3 @@ def complex_delete(prmDictionary, prmValue):
         if value == prmValue:
             del prmDictionary[key]
     return prmDictionary
-
