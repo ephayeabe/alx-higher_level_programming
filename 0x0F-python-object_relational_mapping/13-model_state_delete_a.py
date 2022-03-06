@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """
-script that deletes all State objects with a name containing the letter a from a database
+script that deletes all State objects with a name containing
+the letter a from a database
 """
 
 import sqlalchemy
